@@ -2,7 +2,7 @@
 
 
 int main(){
-
+    
     int n = -10;
     if(n >= 0){
         printf("The Number is Positive!\n");
